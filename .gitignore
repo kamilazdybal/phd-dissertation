@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.out
+*.abs
+*.blg
+*.bbl
+*.spl
+*.synctex.gz
+*.toc
+*.ipynb_checkpoints
+*.pyc
+*__pycache__
+*.DS_Store
