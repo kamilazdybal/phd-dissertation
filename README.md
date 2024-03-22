@@ -2,4 +2,6 @@ This repository is licensed under: [![License: CC BY-NC 4.0](https://img.shields
 
 # PhD dissertation
 
-Code and materials for my PhD dissertation: *Reduced-order modeling of turbulent reacting flows using data-driven approaches*.
+Code and materials for my PhD dissertation:
+
+### [*K. Zdybał - Reduced-order modeling of turbulent reacting flows using data-driven approaches (2024)*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches)
