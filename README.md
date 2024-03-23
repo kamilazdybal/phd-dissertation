@@ -8,6 +8,8 @@ Code and materials for my PhD dissertation:
 
 ### [*K. Zdybał - Reduced-order modeling of turbulent reacting flows using data-driven approaches (2024)*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches)
 
+[!Screenshot](figures/phd-dissertation-cover.png)
+
 ## Code for reproducing results chapter-by-chapter
 
 Below, I provide links to publication details and external repositories that
